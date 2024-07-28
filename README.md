@@ -20,6 +20,6 @@ Mi nombre es Adrián Parodi, soy ingeniero químico y un entusiasta de la progra
 |:------------:|:--------:|:--------:|
 |HTML5         |Node.js 	|Git      |
 |CSS3          |Python    |GitHub   |				
-|JavaScript    |			    |         |
+|JavaScript    |			    |🆚 VS code         |
 |React	       |          |         |
 
