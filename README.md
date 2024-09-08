@@ -24,5 +24,5 @@ Mi nombre es Adrián Parodi, soy ingeniero químico y un entusiasta de la progra
 |JavaScript    |			    |VS code  |
 |React	       |          |         |
 
-Puedes encontrarme en: https://www.linkedin.com/in/adrian-parodi/
+Puedes encontrarme en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adrian--parodi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adrian-parodi/)
