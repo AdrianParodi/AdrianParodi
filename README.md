@@ -16,12 +16,6 @@ Mi nombre es Adrián Parodi, soy ingeniero químico y un entusiasta de la progra
 [![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![RestAPI](https://img.shields.io/badge/RestAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
 
-</br>
-![Googlesheets](https://img.shields.io/badge/Googlesheets-D14836?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=101010)
-![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
-</br>
-​
-##
 
 |Front-end  	|Back-end  |DevOps & Tools|
 |:------------:|:--------:|:--------:|
