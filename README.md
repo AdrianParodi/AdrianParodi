@@ -1,8 +1,4 @@
-## 👋 Bienvenidos a mi perfil
-
-Mi nombre es Adrián Parodi, soy ingeniero químico y un entusiasta de la programación y el desarrollo web.
-- 🔭 Actualmente trabajo como freelancer en Upwork.com. Además, imparto clases de química para la empresa estadounidense Tutor.com.
-- 👯 Estoy buscando posibilidades de colaboración en el diseño de páginas web o desarrollo de programas, utilizando lenguajes como Python o MATLAB.
+## Bienvenidos a mi perfil
 
 ## 🛠️ Tecnologías y Herramientas
 ​
