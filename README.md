@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=6" width="400" />
 </div>
 
-
+## 📊 GitHub Analytics
 <a href="https://github.com/AdrianParodi">
   <img height="200" align="center"
        src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&card_width=400" />
@@ -24,3 +24,26 @@
   <img height="200" align="center"
        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=8&card_width=400" />
 </a>
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&hide_rank=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=5&card_width=320" height="165" />
+</p>
+
+
+## 📊 GitHub Analytics
+<table border="0">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/AdrianParodi">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&hide_rank=true&include_all_commits=true" height="165" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/AdrianParodi">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=5" height="165" />
+      </a>
+    </td>
+  </tr>
+</table>
