@@ -11,6 +11,6 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&hide_rank=true&include_all_commits=true" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=6" width="400" />
 </div>
