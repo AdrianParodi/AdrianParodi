@@ -9,21 +9,6 @@
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  |  |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |  |  |
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&hide_rank=true&include_all_commits=true" width="400" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=6" width="400" />
-</div>
-
-## 📊 GitHub Analytics
-<a href="https://github.com/AdrianParodi">
-  <img height="200" align="center"
-       src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&card_width=400" />
-</a>
-<a href="https://github.com/AdrianParodi">
-  <img height="200" align="center"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=8&card_width=400" />
-</a>
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -31,19 +16,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=5&card_width=320" height="165" />
 </p>
 
-
-## 📊 GitHub Analytics
-<table border="0">
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/AdrianParodi">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true&hide_rank=true&include_all_commits=true" height="165" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/AdrianParodi">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact&langs_count=5" height="165" />
-      </a>
-    </td>
-  </tr>
-</table>
