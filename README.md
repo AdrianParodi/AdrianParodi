@@ -10,4 +10,7 @@
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |  |  |
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianParodi)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AdrianParodi&show_icons=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianParodi&layout=compact)
+
+
